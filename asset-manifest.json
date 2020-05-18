@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfoi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/portfoi/static/js/main.eb77b915.chunk.js",
+    "main.js.map": "/portfoi/static/js/main.eb77b915.chunk.js.map",
+    "runtime-main.js": "/portfoi/static/js/runtime-main.af312044.js",
+    "runtime-main.js.map": "/portfoi/static/js/runtime-main.af312044.js.map",
+    "static/js/2.dc1d6c6d.chunk.js": "/portfoi/static/js/2.dc1d6c6d.chunk.js",
+    "static/js/2.dc1d6c6d.chunk.js.map": "/portfoi/static/js/2.dc1d6c6d.chunk.js.map",
+    "index.html": "/portfoi/index.html",
+    "precache-manifest.30acd7dea34062f243a4ff714d39170e.js": "/portfoi/precache-manifest.30acd7dea34062f243a4ff714d39170e.js",
+    "service-worker.js": "/portfoi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/portfoi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dc1d6c6d.chunk.js.LICENSE.txt": "/portfoi/static/js/2.dc1d6c6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/portfoi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af312044.js",
+    "static/js/2.dc1d6c6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eb77b915.chunk.js"
+  ]
+}
